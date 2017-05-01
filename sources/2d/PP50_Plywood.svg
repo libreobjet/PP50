@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000mm" height="600mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1000 600"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:0.0762;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Plan_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="859,521 859,21 806,21 806,31 746,31 746,21 641,21 641,31 581,31 581,21 539,21 529,21 529,73 539,73 539,218 529,218 529,323 539,323 539,468 529,468 529,521 539,521 581,521 581,511 641,511 641,521 746,521 746,511 806,511 806,521 "/>
+  <polygon class="fil0 str0" points="464,212 507,212 507,192 517,192 517,152 507,152 507,132 464,132 464,122 319,122 319,132 214,132 214,122 69,122 69,132 27,132 27,152 17,152 17,192 27,192 27,212 69,212 69,222 214,222 214,212 319,212 319,222 464,222 "/>
+  <path class="fil0 str0" d="M189 30l135 34c17,4 30,18 34,34l154 0 0 -20 -10 0 0 -40 10 0 0 -20 -53 0 0 -10 -60 0 0 10 -105 0 0 -10 -60 0 0 10 -53 0 0 2c0,5 3,9 8,10z"/>
+  <path class="fil0 str0" d="M342 85l-135 -34c-17,-4 -30,-18 -34,-34l-154 0 0 20 10 0 0 40 -10 0 0 20 53 0 0 10 60 0 0 -10 105 0 0 10 60 0 0 -10 53 0 0 -2c0,-5 -3,-9 -8,-10z"/>
+  <polygon class="fil0 str0" points="515,395 515,241 15,241 15,395 67,395 67,385 212,385 212,395 317,395 317,385 462,385 462,395 "/>
+ </g>
+</svg>
